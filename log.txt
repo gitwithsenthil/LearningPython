@@ -1,0 +1,433 @@
+Searching....DRSTATUSMDR
+DRSTATUSMDR is found in DRSTATUSMDR.bco
+DRSTATUSMDR is found in DRStatusMDR.QA.uicomponent
+Searching....ZPROMOTIONSSTATUS
+ZPROMOTIONSSTATUS is found in SalesPromotions.EC.uicomponent
+ZPROMOTIONSSTATUS is found in ZPromotionT.bo
+ZPROMOTIONSSTATUS is found in ZPromotionT_OWL.OWL.uicomponent
+ZPROMOTIONSSTATUS is found in ZPromotionT_TI.TI.uicomponent
+ZPROMOTIONSSTATUS is found in ZPROMOTIONSSTATUS.bco
+ZPROMOTIONSSTATUS is found in ZPROMOTIONSSTATUS.QA.uicomponent
+Searching....DR_GEO_DLS
+DR_GEO_DLS is found in DR_GEO_DLS.bco
+DR_GEO_DLS is found in DR_GEO_DLs.QA.uicomponent
+Searching....THIRDPARTYPRODUCT
+THIRDPARTYPRODUCT is found in OpportunitySellingRequestEC.EC.uicomponent
+THIRDPARTYPRODUCT is found in SellingRequest.bo
+THIRDPARTYPRODUCT is found in SellingRequest_QC.QC.uicomponent
+THIRDPARTYPRODUCT is found in ThirdPartyProductOVS.OVS.uicomponent
+THIRDPARTYPRODUCT is found in SellingReqThirdPartyProductView.QA.uicomponent
+THIRDPARTYPRODUCT is found in THIRDPARTYPRODUCT.bco
+Searching....THIRDPARTYPARTNER
+THIRDPARTYPARTNER is found in OpportunitySellingRequestEC.EC.uicomponent
+THIRDPARTYPARTNER is found in SellingRequest.bo
+THIRDPARTYPARTNER is found in SellingRequest_QC.QC.uicomponent
+THIRDPARTYPARTNER is found in ThirdPartyProductOVS.OVS.uicomponent
+THIRDPARTYPARTNER is found in SellingReqThirdPartyPartnerView.QA.uicomponent
+THIRDPARTYPARTNER is found in SellingReqThirdPartyProductView.QA.uicomponent
+THIRDPARTYPARTNER is found in THIRDPARTYPARTNER.bco
+THIRDPARTYPARTNER is found in THIRDPARTYPRODUCT.bco
+Searching....SELLINGACCOUNTINITIATIVE
+SELLINGACCOUNTINITIATIVE is found in OpportunitySellingRequestEC.EC.uicomponent
+SELLINGACCOUNTINITIATIVE is found in SellingRequest.bo
+SELLINGACCOUNTINITIATIVE is found in SellingRequest_OWL.OWL.uicomponent
+SELLINGACCOUNTINITIATIVE is found in SellingRequest_QC.QC.uicomponent
+SELLINGACCOUNTINITIATIVE is found in SellingRequest_QV.QV.uicomponent
+SELLINGACCOUNTINITIATIVE is found in SellingRequest_TI.TI.uicomponent
+SELLINGACCOUNTINITIATIVE is found in SELLINGACCOUNTINITIATIVE.bco
+SELLINGACCOUNTINITIATIVE is found in SellingReqAccountInitiativeView.QA.uicomponent
+Searching....STORAGEPRODUCT
+STORAGEPRODUCT is found in OpportunitySellingRequestEC.EC.uicomponent
+STORAGEPRODUCT is found in SellingRequest.bo
+STORAGEPRODUCT is found in SellingRequest_QC.QC.uicomponent
+STORAGEPRODUCT is found in SellingReqStorageProductView.QA.uicomponent
+STORAGEPRODUCT is found in STORAGEPRODUCT.bco
+Searching....TASK_TERRITORYOPPT
+TASK_TERRITORYOPPT is found in TaskTerritory_View.QA.uicomponent
+TASK_TERRITORYOPPT is found in TASK_TERRITORYOPPT.bco
+Searching....ESCALATION_REASON
+ESCALATION_REASON is found in ZPromotionT.bo
+ESCALATION_REASON is found in ZPromotionT_TI.TI.uicomponent
+ESCALATION_REASON is found in ESCALATION_REASON.bco
+ESCALATION_REASON is found in ESCALATION_REASON.QA.uicomponent
+Searching....TYPE
+TYPE is found in OEMDR.bo
+TYPE is found in OEMDR_OWL.OWL.uicomponent
+TYPE is found in OEMDR_QC.QC.uicomponent
+TYPE is found in OEMDR_TI.TI.uicomponent
+Searching....SUBTYPE
+SUBTYPE is found in OEMDR.bo
+SUBTYPE is found in OEMDR_OWL.OWL.uicomponent
+SUBTYPE is found in OEMDR_QC.QC.uicomponent
+SUBTYPE is found in OEMDR_TI.TI.uicomponent
+SUBTYPE is found in OEMOpportunity.bo
+SUBTYPE is found in SUBTYPE.bco
+SUBTYPE is found in SUBTYPE.QA.uicomponent
+Searching....NGEMAIL
+NGEMAIL is found in NGEMAIL.bco
+NGEMAIL is found in NGEMAIL.QA.uicomponent
+Searching....QUOTESTATUSMDR
+QUOTESTATUSMDR is found in QUOTESTATUSMDR.bco
+QUOTESTATUSMDR is found in QuoteStatusMDR.QA.uicomponent
+Searching....ZPSFORECASTING_FST
+ZPSFORECASTING_FST is found in ZPSForecasting.bo
+ZPSFORECASTING_FST is found in ZPSFORECASTING_FST.bco
+ZPSFORECASTING_FST is found in ZPSFORECASTING_FST.QA.uicomponent
+Searching....SERVICEPARENT
+SERVICEPARENT is found in ZPSForecasting.bo
+SERVICEPARENT is found in SERVICECHILD.bco
+SERVICEPARENT is found in SERVICEPARENT.bco
+SERVICEPARENT is found in ZPSFORECASTING_SERVPARENT.QA.uicomponent
+SERVICEPARENT is found in ZPSFORECASTING_SERV_CHILD.QA.uicomponent
+Searching....SERVICECHILD
+SERVICECHILD is found in ZPSForecasting.bo
+SERVICECHILD is found in SERVICECHILD.bco
+SERVICECHILD is found in ZPSFORECASTING_SERV_CHILD.QA.uicomponent
+Searching....PRODUCT_TYPE
+PRODUCT_TYPE is found in ZPSForecasting.bo
+PRODUCT_TYPE is found in ZPSForecasting.EC.uicomponent
+PRODUCT_TYPE is found in ZPSForecasting_OWL.OWL.uicomponent
+PRODUCT_TYPE is found in ZPSForecasting_TI.TI.uicomponent
+PRODUCT_TYPE is found in ZWWSS_FST.bco
+PRODUCT_TYPE is found in ZWWSS_FST.QA.uicomponent
+PRODUCT_TYPE is found in ZWWSS_PRODUCT_TYPE.bco
+PRODUCT_TYPE is found in ZWWSS_PRODUCT_TYPE.QA.uicomponent
+PRODUCT_TYPE is found in PRODUCT_TYPE.bco
+PRODUCT_TYPE is found in ZPSFORECASTING_FST.bco
+PRODUCT_TYPE is found in ZPSFORECASTING_FST.QA.uicomponent
+PRODUCT_TYPE is found in ZPSFORECASTING_PRODUCT_TYPE.QA.uicomponent
+Searching....WWSSDEALREASON
+WWSSDEALREASON is found in ZPSForecasting.bo
+WWSSDEALREASON is found in WWSSDEALREASON.bco
+WWSSDEALREASON is found in ZPSFORECASTING_NO_DEAL_REASON.QA.uicomponent
+Searching....OPPTYCOPYROLES
+OPPTYCOPYROLES is found in OpptyCopyRole.QA.uicomponent
+OPPTYCOPYROLES is found in OPPTYCOPYROLES.bco
+Searching....DIRECTOPPTYROLESCOPY
+DIRECTOPPTYROLESCOPY is found in DIRECTOPPTYROLESCOPY.bco
+DIRECTOPPTYROLESCOPY is found in DirectOpptyRolesCopy.QA.uicomponent
+Searching....ZWWSS_SERV_PARENT
+ZWWSS_SERV_PARENT is found in ZPSForecasting.bo
+ZWWSS_SERV_PARENT is found in ZPSForecasting.EC.uicomponent
+ZWWSS_SERV_PARENT is found in ZPSForecasting_TI.TI.uicomponent
+ZWWSS_SERV_PARENT is found in ZWWSS_SERV_CHILD.bco
+ZWWSS_SERV_PARENT is found in ZWWSS_SERV_PARENT.bco
+ZWWSS_SERV_PARENT is found in ZWWSS_S_CHILD.QA.uicomponent
+ZWWSS_SERV_PARENT is found in ZWWSS_S_PARENT.QA.uicomponent
+Searching....ZWWSS_SERV_CHILD
+ZWWSS_SERV_CHILD is found in ZPSForecasting.bo
+ZWWSS_SERV_CHILD is found in ZPSForecasting.EC.uicomponent
+ZWWSS_SERV_CHILD is found in ZPSForecasting_TI.TI.uicomponent
+ZWWSS_SERV_CHILD is found in ZWWSS_SERV_CHILD.bco
+ZWWSS_SERV_CHILD is found in ZWWSS_S_CHILD.QA.uicomponent
+Searching....ZWWSS_PRODUCT_TYPE
+ZWWSS_PRODUCT_TYPE is found in ZPSForecasting.bo
+ZWWSS_PRODUCT_TYPE is found in ZPSForecasting.EC.uicomponent
+ZWWSS_PRODUCT_TYPE is found in ZPSForecasting_OWL.OWL.uicomponent
+ZWWSS_PRODUCT_TYPE is found in ZPSForecasting_TI.TI.uicomponent
+ZWWSS_PRODUCT_TYPE is found in ZWWSS_FST.bco
+ZWWSS_PRODUCT_TYPE is found in ZWWSS_FST.QA.uicomponent
+ZWWSS_PRODUCT_TYPE is found in ZWWSS_PRODUCT_TYPE.bco
+ZWWSS_PRODUCT_TYPE is found in ZWWSS_PRODUCT_TYPE.QA.uicomponent
+Searching....ZWWSS_NO_DEAL_REASON
+ZWWSS_NO_DEAL_REASON is found in ZPSForecasting.bo
+ZWWSS_NO_DEAL_REASON is found in ZPSForecasting.EC.uicomponent
+ZWWSS_NO_DEAL_REASON is found in ZPSForecasting_TI.TI.uicomponent
+ZWWSS_NO_DEAL_REASON is found in ZWWSS_NDR.QA.uicomponent
+ZWWSS_NO_DEAL_REASON is found in ZWWSS_NO_DEAL_REASON.bco
+Searching....ZWWSS_FST
+ZWWSS_FST is found in ZPSForecasting.bo
+ZWWSS_FST is found in ZPSForecasting.EC.uicomponent
+ZWWSS_FST is found in ZPSForecasting_TI.TI.uicomponent
+ZWWSS_FST is found in ZWWSS_FST.bco
+ZWWSS_FST is found in ZWWSS_FST.QA.uicomponent
+Searching....ESCALATION_TYPE
+ESCALATION_TYPE is found in ZPromotionT.bo
+ESCALATION_TYPE is found in ZPromotionT_TI.TI.uicomponent
+ESCALATION_TYPE is found in ESCALATION_TYPE.bco
+ESCALATION_TYPE is found in ESCALATION_TYPE.QA.uicomponent
+Searching....CLOUDPROD
+CLOUDPROD is found in CLOUDPROD.bco
+CLOUDPROD is found in OpptyProductView.QA.uicomponent
+Searching....MDPARTNERBCO
+MDPARTNERBCO is found in MDPARTNERBCO.bco
+MDPARTNERBCO is found in MDPartnerView.QA.uicomponent
+Searching....MDOPP
+MDOPP is found in MDOPP.bco
+MDOPP is found in MDOPPVIEW.QA.uicomponent
+Searching....ZYESNO
+ZYESNO is found in ZPSPartner.QA.uicomponent
+ZYESNO is found in ZPSSPARTNER.bco
+ZYESNO is found in YesNo.QA.uicomponent
+ZYESNO is found in ZYESNO.bco
+Searching....GENERICPARAMBCO
+GENERICPARAMBCO is found in GENERICPARAMBCO.bco
+GENERICPARAMBCO is found in GENERICPARBCV.QA.uicomponent
+Searching....MONTHLYRATECLOUDINSIGHT
+MONTHLYRATECLOUDINSIGHT is found in MONTHLYRATECLOUDINSIGHT.bco
+MONTHLYRATECLOUDINSIGHT is found in MonthlyRateCloudInsight.QA.uicomponent
+Searching....PERFORMANCELEVELRATEOPPTY
+PERFORMANCELEVELRATEOPPTY is found in PerformanceLevelRate.QA.uicomponent
+PERFORMANCELEVELRATEOPPTY is found in PERFORMANCELEVELRATEOPPTY.bco
+Searching....ZBYPASS
+ZBYPASS is found in ZBYPASS.bco
+ZBYPASS is found in ZBYPASS_BCView.QA.uicomponent
+Searching....PROMOTIONGEO
+PROMOTIONGEO is found in ZPromotionMaster.bo
+PROMOTIONGEO is found in ZPromotionMaster_OWL.OWL.uicomponent
+PROMOTIONGEO is found in ZPromotionMaster_QC.QC.uicomponent
+PROMOTIONGEO is found in ZPromotionMaster_QV.QV.uicomponent
+PROMOTIONGEO is found in ZPromotionMaster_TI.TI.uicomponent
+PROMOTIONGEO is found in ZPromotions.OVS.uicomponent
+PROMOTIONGEO is found in PromotionModal.EC.uicomponent
+PROMOTIONGEO is found in PROMOTIONGEO.bco
+PROMOTIONGEO is found in PromotionGeoView.QA.uicomponent
+Searching....DCRBM_BCO
+DCRBM_BCO is found in DCRAttributes.bo
+DCRBM_BCO is found in Opp_DCRAttribtues.EC.uicomponent
+DCRBM_BCO is found in ResellerPartnerRoles.OVS.uicomponent
+DCRBM_BCO is found in DCRReseller.OVS.uicomponent
+DCRBM_BCO is found in DCR_OpportunityQC.EC.uicomponent
+DCRBM_BCO is found in DCR_OpportunityTI.EC.uicomponent
+DCRBM_BCO is found in DCRBM_BCO.bco
+DCRBM_BCO is found in DCRBM_VIEW.QA.uicomponent
+Searching....ZCHARTBCO
+ZCHARTBCO is found in ZCHART.bo
+ZCHARTBCO is found in ZCHARTEC.EC.uicomponent
+ZCHARTBCO is found in ZCHART_OWL.OWL.uicomponent
+ZCHARTBCO is found in ZCHART_QC.QC.uicomponent
+ZCHARTBCO is found in ZCHART_QV.QV.uicomponent
+ZCHARTBCO is found in ZCHART_TI.TI.uicomponent
+ZCHARTBCO is found in ZCHARTEC.EC.uicomponent
+ZCHARTBCO is found in ZCHARTBCO.bco
+ZCHARTBCO is found in ZCHARTBCO.QA.uicomponent
+Searching....MONTHLYRATE
+MONTHLYRATE is found in MONTHLYRATECLOUDINSIGHT.bco
+MONTHLYRATE is found in MonthlyRateCloudInsight.QA.uicomponent
+MONTHLYRATE is found in MONTHLYRATECLOUDSYNC.QA.uicomponent
+MONTHLYRATE is found in MONTHLYRATECLOUDSYNCOFFERING.bco
+MONTHLYRATE is found in CloudTypeMonthlyRate.QA.uicomponent
+MONTHLYRATE is found in MONTHLYRATE.bco
+Searching....ZSCAUTOSPLIT
+ZSCAUTOSPLIT is found in ZSCAUTOSPLIT.bco
+ZSCAUTOSPLIT is found in ZSCAUTOSPLITV.QA.uicomponent
+Searching....BCO_MAPPINGRESGRP
+BCO_MAPPINGRESGRP is found in BCO_MAPPINGRESGRP.bco
+BCO_MAPPINGRESGRP is found in BCView_Mapping_table.QA.uicomponent
+Searching....SOSCREDITDIFF
+SOSCREDITDIFF is found in SOrgSCreditUpdateMDR.QA.uicomponent
+SOSCREDITDIFF is found in SOSCREDITDIFF.bco
+Searching....OPPSTATUSMDR
+OPPSTATUSMDR is found in OpportunityStatusMDR.QA.uicomponent
+OPPSTATUSMDR is found in OPPSTATUSMDR.bco
+Searching....ZSSOBP
+ZSSOBP is found in BPIDSSO.QA.uicomponent
+ZSSOBP is found in ZSSOBP.bco
+Searching....OPPBM_BCO
+OPPBM_BCO is found in DCRBusinessModel.OVS.uicomponent
+OPPBM_BCO is found in DCR_OpportunityQC.EC.uicomponent
+OPPBM_BCO is found in DCR_OpportunityTI.EC.uicomponent
+OPPBM_BCO is found in OPPBM_BCO.bco
+OPPBM_BCO is found in OPPBM_VIEW.QA.uicomponent
+Searching....ZSTATUS
+ZSTATUS is found in DCRAttributes.bo
+ZSTATUS is found in ZSTATUS.bco
+ZSTATUS is found in ZSTATUS.QA.uicomponent
+Searching....LEADSTATUSMDR
+LEADSTATUSMDR is found in LEADSTATUSMDR.bco
+LEADSTATUSMDR is found in LeadStatusMDR.QA.uicomponent
+Searching....WORKLOADSUBCATEGORY
+WORKLOADSUBCATEGORY is found in CIWorkloadMapping.bo
+WORKLOADSUBCATEGORY is found in CIWorkloadMapping_OVS.OVS.uicomponent
+WORKLOADSUBCATEGORY is found in CIWorkloadMapping_OWL.OWL.uicomponent
+WORKLOADSUBCATEGORY is found in CIWorkloadMapping_QC.QC.uicomponent
+WORKLOADSUBCATEGORY is found in CustomerIntelligence_EC.EC.uicomponent
+WORKLOADSUBCATEGORY is found in CustomerIntelligence_OWL.OWL.uicomponent
+WORKLOADSUBCATEGORY is found in WORKLOADSUBCATEGORY.bco
+WORKLOADSUBCATEGORY is found in WorkloadSubCategoryView.QA.uicomponent
+Searching....URLMASHUPNEW
+URLMASHUPNEW is found in URLMASHUPNEW.bco
+URLMASHUPNEW is found in URLMASHUPNEW.QA.uicomponent
+Searching....DELIVERYMECHANISM
+DELIVERYMECHANISM is found in CustomerIntelligence.bo
+DELIVERYMECHANISM is found in CustomerIntelligence_EC.EC.uicomponent
+DELIVERYMECHANISM is found in CustomerIntelligence_OWL.OWL.uicomponent
+DELIVERYMECHANISM is found in CustomerIntelligence_QC.QC.uicomponent
+DELIVERYMECHANISM is found in CustomerIntelligence_QV.QV.uicomponent
+DELIVERYMECHANISM is found in CustomerIntelligence_TI.TI.uicomponent
+DELIVERYMECHANISM is found in DELIVERYMECHANISM.bco
+DELIVERYMECHANISM is found in DeliveryMechanism.QA.uicomponent
+Searching....CUSTOMERINTELLIGENCEWORLOAD
+CUSTOMERINTELLIGENCEWORLOAD is found in CIWorkloadMapping.bo
+CUSTOMERINTELLIGENCEWORLOAD is found in CIWorkloadMapping_OVS.OVS.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CIWorkloadMapping_OWL.OWL.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CIWorkloadMapping_QC.QC.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CIWorkloadMapping_QV.QV.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CIWorkloadMapping_TI.TI.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CustomerIntelligence.bo
+CUSTOMERINTELLIGENCEWORLOAD is found in CustomerIntelligence_EC.EC.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CustomerIntelligence_OWL.OWL.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CustomerIntelligence_QC.QC.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CustomerIntelligence_QV.QV.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CustomerIntelligence_TI.TI.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CustomerIntelligenceWorkload.QA.uicomponent
+CUSTOMERINTELLIGENCEWORLOAD is found in CUSTOMERINTELLIGENCEWORLOAD.bco
+Searching....CIMASHUPBOURLS
+CIMASHUPBOURLS is found in CIMASHUPBOURLS.bco
+CIMASHUPBOURLS is found in CIMASHUPBOURLS.QA.uicomponent
+Searching....CISOLUTIONREASON
+CISOLUTIONREASON is found in CustomerIntelligence.bo
+CISOLUTIONREASON is found in CISOLREASONBCV.QA.uicomponent
+CISOLUTIONREASON is found in CISOLUTIONREASON.bco
+Searching....ZRREMPLOYEEBCO
+ZRREMPLOYEEBCO is found in RREmployeeView.QA.uicomponent
+ZRREMPLOYEEBCO is found in ZRREMPLOYEEBCO.bco
+Searching....CATEGORYMAPPING
+CATEGORYMAPPING is found in CATEGORYMAPPING.bco
+CATEGORYMAPPING is found in CategoryMapping.QA.uicomponent
+Searching....ZSUBCATEGORY
+ZSUBCATEGORY is found in Account_OppWins.EC.uicomponent
+ZSUBCATEGORY is found in EC_OppWins.EC.uicomponent
+ZSUBCATEGORY is found in OppWins.bo
+ZSUBCATEGORY is found in OppWins_OWL.OWL.uicomponent
+ZSUBCATEGORY is found in OppWins_TI.TI.uicomponent
+ZSUBCATEGORY is found in CATEGORYMAPPING.bco
+ZSUBCATEGORY is found in CategoryMapping.QA.uicomponent
+ZSUBCATEGORY is found in ZSUBCATEGORY.bco
+ZSUBCATEGORY is found in ZSUBCATEGORY.QA.uicomponent
+Searching....ZCATEGORY
+ZCATEGORY is found in Account_OppWins.EC.uicomponent
+ZCATEGORY is found in EC_OppWins.EC.uicomponent
+ZCATEGORY is found in OppWins.bo
+ZCATEGORY is found in OppWins_OWL.OWL.uicomponent
+ZCATEGORY is found in OppWins_TI.TI.uicomponent
+ZCATEGORY is found in CATEGORYMAPPING.bco
+ZCATEGORY is found in CategoryMapping.QA.uicomponent
+ZCATEGORY is found in ZCATEGORY.bco
+ZCATEGORY is found in ZCATEGORY.QA.uicomponent
+ZCATEGORY is found in ZSUBCATEGORY.bco
+ZCATEGORY is found in ZSUBCATEGORY.QA.uicomponent
+Searching....RSERVICETYPE
+RSERVICETYPE is found in ResourceRequest.bo
+RSERVICETYPE is found in ResourceRequest_QC.QC.uicomponent
+RSERVICETYPE is found in ResourceRequest_TI.TI.uicomponent
+RSERVICETYPE is found in RSERVICETYPE.bco
+RSERVICETYPE is found in ServiceTypeView.QA.uicomponent
+Searching....MONTHLYRATECLOUDSYNCOFFERING
+MONTHLYRATECLOUDSYNCOFFERING is found in MONTHLYRATECLOUDSYNC.QA.uicomponent
+MONTHLYRATECLOUDSYNCOFFERING is found in MONTHLYRATECLOUDSYNCOFFERING.bco
+Searching....ZLEVEL
+ZLEVEL is found in DCRAttributes.bo
+ZLEVEL is found in ZLEVEL.bco
+ZLEVEL is found in ZLEVEL.QA.uicomponent
+Searching....GENDOMAINSNEW
+GENDOMAINSNEW is found in GENDOMAINSNEW.bco
+GENDOMAINSNEW is found in GENDOMAINSNEW.QA.uicomponent
+Searching....GENDOMAINS
+GENDOMAINS is found in GENDOMAINS.bco
+GENDOMAINS is found in GENDOMAINSNEW.bco
+GENDOMAINS is found in GENDOMAINSNEW.QA.uicomponent
+GENDOMAINS is found in GenericDomainsView.QA.uicomponent
+Searching....DCRCP_BCO
+DCRCP_BCO is found in DCR_OpportunityQC.EC.uicomponent
+DCRCP_BCO is found in DCR_OpportunityTI.EC.uicomponent
+DCRCP_BCO is found in DCRCP_BCO.bco
+DCRCP_BCO is found in DCRCP_VIEW.QA.uicomponent
+Searching....ESTIMATEDBOOKINGUSDVALUE
+ESTIMATEDBOOKINGUSDVALUE is found in ESTIMATEDBOOKINGUSDVALUE.bco
+ESTIMATEDBOOKINGUSDVALUE is found in ESTIMATEDUSDView.QA.uicomponent
+Searching....ESTIMATEDBOOKING
+ESTIMATEDBOOKING is found in OppWins.bo
+ESTIMATEDBOOKING is found in OppWins_TI.TI.uicomponent
+ESTIMATEDBOOKING is found in ESTIMATEDBOOKING.bco
+ESTIMATEDBOOKING is found in ESTIMATEDBOOKINGUSDVALUE.bco
+ESTIMATEDBOOKING is found in ESTIMATEDBOOKINGVIEW.QA.uicomponent
+ESTIMATEDBOOKING is found in ESTIMATEDUSDView.QA.uicomponent
+Searching....ESTBOOKRANGE_BCO
+ESTBOOKRANGE_BCO is found in EC_OppWins.EC.uicomponent
+ESTBOOKRANGE_BCO is found in OppWins.bo
+ESTBOOKRANGE_BCO is found in OppWins_OWL.OWL.uicomponent
+ESTBOOKRANGE_BCO is found in OppWins_QC.QC.uicomponent
+ESTBOOKRANGE_BCO is found in OppWins_QV.QV.uicomponent
+ESTBOOKRANGE_BCO is found in ESTBOOKRANGEView.QA.uicomponent
+ESTBOOKRANGE_BCO is found in ESTBOOKRANGE_BCO.bco
+Searching....REQDECRES
+REQDECRES is found in SalesPromotions.EC.uicomponent
+REQDECRES is found in ZPromotionT.bo
+REQDECRES is found in ZPromotionT_OWL.OWL.uicomponent
+REQDECRES is found in ZPromotionT_TI.TI.uicomponent
+REQDECRES is found in REQDECRES.bco
+REQDECRES is found in ReqDecRes.QA.uicomponent
+Searching....REMREQSTATUS
+REMREQSTATUS is found in ZPromotionT.bo
+REMREQSTATUS is found in ZPromotionT_TI.TI.uicomponent
+REMREQSTATUS is found in REMREQSTATUS.bco
+REMREQSTATUS is found in RemReqStatus.QA.uicomponent
+Searching....OPPTYPRODUCTRESTRICTION
+OPPTYPRODUCTRESTRICTION is found in OPPTYPRODUCTRESTRICTION.bco
+OPPTYPRODUCTRESTRICTION is found in ProductRestrictionbasedonOpportunityType.QA.uicomponent
+Searching....MONTHRATECLOUDONTAP
+MONTHRATECLOUDONTAP is found in CloudONTAPRates.QA.uicomponent
+MONTHRATECLOUDONTAP is found in MONTHRATECLOUDONTAP.bco
+Searching....RREMPLOYEE
+RREMPLOYEE is found in EmployeeGroupRR.OVS.uicomponent
+RREMPLOYEE is found in RREMPLOYEE.bco
+RREMPLOYEE is found in RREmployee.QA.uicomponent
+RREMPLOYEE is found in RREmployeeView.QA.uicomponent
+RREMPLOYEE is found in ZRREMPLOYEEBCO.bco
+Searching....ZHAEMPTERRITORY
+ZHAEMPTERRITORY is found in ZHAEMPTERRIT.QA.uicomponent
+ZHAEMPTERRITORY is found in ZHAEMPTERRITORY.bco
+Searching....FPVR_PA_BCO
+FPVR_PA_BCO is found in Feature_PVR.bo
+FPVR_PA_BCO is found in Feature_PVR_OWL.OWL.uicomponent
+FPVR_PA_BCO is found in Feature_PVR_TI.TI.uicomponent
+FPVR_PA_BCO is found in FPVR_Mapping.bo
+FPVR_PA_BCO is found in FPVR_Mapping_OWL.OWL.uicomponent
+FPVR_PA_BCO is found in FPVR_Mapping_QC.QC.uicomponent
+FPVR_PA_BCO is found in FPVR_Mapping_QV.QV.uicomponent
+FPVR_PA_BCO is found in FPVR_Mapping_TI.TI.uicomponent
+FPVR_PA_BCO is found in ProdAffectedOVS.OVS.uicomponent
+FPVR_PA_BCO is found in ProductGrp_FPVR.OVS.uicomponent
+FPVR_PA_BCO is found in FPVR_PA_BCO.bco
+FPVR_PA_BCO is found in FPVR_PA_View.QA.uicomponent
+Searching....LEADDECLINEREASON
+LEADDECLINEREASON is found in LeadDeclineReasonPopup_EC1.EC.uicomponent
+LEADDECLINEREASON is found in LeadRoutingEngineStatus.bo
+LEADDECLINEREASON is found in LeadRoutingEngineStatu_OWL.OWL.uicomponent
+LEADDECLINEREASON is found in LeadRoutingStatus_EC.EC.uicomponent
+LEADDECLINEREASON is found in LEADDECLINEREASON.bco
+LEADDECLINEREASON is found in LeadDeclineReason.QA.uicomponent
+Searching....ZQUOTEPATH
+ZQUOTEPATH is found in ZQuotepath.EC.uicomponent
+ZQUOTEPATH is found in ZQUOTEPATH.bco
+ZQUOTEPATH is found in ZQUOTEPATH.QA.uicomponent
+Searching....LDRSLANEW
+LDRSLANEW is found in LDRSLANEW.bco
+LDRSLANEW is found in LDRSLANEW.QA.uicomponent
+Searching....LDRSLABCO
+LDRSLABCO is found in LDRSLABCO.bco
+LDRSLABCO is found in LDRSLABCVIEW.QA.uicomponent
+Searching....EMAILROUTERR
+EMAILROUTERR is found in EMAILROUTERR.bco
+EMAILROUTERR is found in EMAILROUTERR.QA.uicomponent
+Searching....ZPSSPARTNER
+ZPSSPARTNER is found in ZPSForecasting.bo
+ZPSSPARTNER is found in ZPSForecasting.EC.uicomponent
+ZPSSPARTNER is found in ZPSForecasting_TI.TI.uicomponent
+ZPSSPARTNER is found in ZPSPartner.QA.uicomponent
+ZPSSPARTNER is found in ZPSSPARTNER.bco
+Searching....RREQUESTTYPE
+RREQUESTTYPE is found in ResourceRequest.bo
+RREQUESTTYPE is found in ResourceRequest.EC.uicomponent
+RREQUESTTYPE is found in ResourceRequest_OWL.OWL.uicomponent
+RREQUESTTYPE is found in ResourceRequest_QC.QC.uicomponent
+RREQUESTTYPE is found in ResourceRequest_QV.QV.uicomponent
+RREQUESTTYPE is found in ResourceRequest_TI.TI.uicomponent
+RREQUESTTYPE is found in RREmployeeView.QA.uicomponent
+RREQUESTTYPE is found in ZRREMPLOYEEBCO.bco
+RREQUESTTYPE is found in RREQUESTTYPE.bco
+RREQUESTTYPE is found in RRTypeView.QA.uicomponent
+Searching....GENERIC_BCO
+GENERIC_BCO is found in GENERIC_BCO.bco
+GENERIC_BCO is found in Generic_BCVIEW.QA.uicomponent
